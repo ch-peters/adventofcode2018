@@ -7,6 +7,7 @@ import java.util.ArrayList;
 public class AdventDayTwo {
 
     public static void main(String[] args) throws IOException {
+        //Here I am adding a comment.
         Scanner scanN = new Scanner(System.in);
         int count;
         ArrayList<String> values = new ArrayList<>();
